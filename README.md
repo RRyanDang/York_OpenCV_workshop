@@ -1,7 +1,7 @@
 # York OpenCV Workshop
 
 Welcome to the **York University OpenCV Workshop** repository! This project is dedicated to the workshop on OpenCV, hosted at York University, where we introduced OpenCV concepts and demonstrated practical applications. In this workshop, we also connected OpenCV with Pygame to create a game, showcasing how OpenCV can be used in interactive applications.
-Workshop's Introductory Website: https://open-cv-workshop.vercel.app/
+- Workshop's Introductory Website: https://open-cv-workshop.vercel.app/
 
 ## Workshop Overview
 
